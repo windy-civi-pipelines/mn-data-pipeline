@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees Schomacker, Gillman, Jacob, Noor, Keeler, Curran",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2434"
+}

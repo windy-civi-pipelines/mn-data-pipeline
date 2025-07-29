@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate file first reading, referred to Agriculture Finance and Policy",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 1552"
+}

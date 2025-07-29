@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Third reading as amended by Conference",
+    "date": "2025-05-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 1959"
+}

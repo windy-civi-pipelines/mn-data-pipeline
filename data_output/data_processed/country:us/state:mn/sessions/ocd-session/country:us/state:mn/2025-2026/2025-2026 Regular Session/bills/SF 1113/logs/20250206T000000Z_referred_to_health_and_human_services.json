@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Health and Human Services",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 1113"
+}

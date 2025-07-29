@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Author added Vang",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 1517"
+}

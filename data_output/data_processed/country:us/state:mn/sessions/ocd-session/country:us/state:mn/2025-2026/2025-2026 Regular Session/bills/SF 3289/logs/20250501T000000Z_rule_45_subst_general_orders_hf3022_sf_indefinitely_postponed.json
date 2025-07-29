@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rule 45; subst. General Orders HF3022, SF indefinitely postponed",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 3289"
+}

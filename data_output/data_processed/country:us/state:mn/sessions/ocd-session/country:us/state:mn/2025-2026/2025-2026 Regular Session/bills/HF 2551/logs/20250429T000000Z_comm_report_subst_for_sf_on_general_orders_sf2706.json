@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Comm report: Subst. for SF on General Orders SF2706",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2551"
+}

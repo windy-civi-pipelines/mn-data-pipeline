@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report, to adopt",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 264"
+}

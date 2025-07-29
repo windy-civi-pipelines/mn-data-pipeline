@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Capital Investment",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2718"
+}

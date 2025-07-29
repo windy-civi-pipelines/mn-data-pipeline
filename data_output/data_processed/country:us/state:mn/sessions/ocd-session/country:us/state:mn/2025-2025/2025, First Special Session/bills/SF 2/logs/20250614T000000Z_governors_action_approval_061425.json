@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor's action Approval 06/14/25",
+    "date": "2025-06-14",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 2"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate accedes, conference committee of 3 be appointed",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2130"
+}

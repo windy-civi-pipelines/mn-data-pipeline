@@ -55,6 +55,7 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T00:42:04Z"
+    "logs_latest_update": "2025-10-25T00:42:04Z",
+    "text_extraction_latest_update": "2025-10-25T04:12:04.677154Z"
   }
 }

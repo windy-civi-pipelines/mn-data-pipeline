@@ -1,0 +1,436 @@
+{
+  "legislative_session": "2025s1",
+  "identifier": "SF 9",
+  "title": "Legislative corrections bill",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Legislature"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received from Senate",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Senate file first reading",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Third reading as amended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Bill was passed as amended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Presented to Governor 06/12/2025",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Governor approval 06/14/2025",
+      "date": "2025-06-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Secretary of State, Filed 06/14/2025",
+      "date": "2025-06-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Laid on table",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Author added Latz",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Taken from table",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Urgency declared rules suspended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Third reading Passed",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Returned from House with amendment",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Senate concurred and repassed bill",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Third reading Passed as amended",
+      "date": "2025-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Presentment date 06/12/25",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Governor's action Approval 06/14/25",
+      "date": "2025-06-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    },
+    {
+      "description": "Secretary of State Chapter 11 06/14/25",
+      "date": "2025-06-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:42:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Limmer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Limmer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Latz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Latz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liebling",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liebling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HF 10",
+      "legislative_session": "2025s1",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Minnesota Session Laws - 2025, 1st Special Session",
+      "citation": "Chapter 11",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 504B.161 subdivision 1 as amended by Laws 2025 chapter 32 article 4 section 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "chapter 39 article 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "chapter 36 article 4 section 8 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "chapter 6 section 9",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "2025 First Special Session H.F. No. 3",
+      "citation": "article 2 section 36 if enacted",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256B.4914",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "2025 First Special Session H.F. No. 2",
+      "citation": "article 1 section 48 subdivision 1 if enacted",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 223.17 subdivision 3 as amended by Laws 2025 chapter 34 article 3 section 33",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 17.1017 subdivision 9 as amended by Laws 2025 chapter 34 article 3 section 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 17.1018 subdivision 1 as amended by Laws 2025 chapter 34 article 3 section 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "chapter 34 article 1 section 2 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    },
+    {
+      "publication": "Laws 2025",
+      "citation": "chapter 34 article 1 section 2 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/11/"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2025/1/SF/9?body=Senate",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T00:42:04Z"
+  }
+}

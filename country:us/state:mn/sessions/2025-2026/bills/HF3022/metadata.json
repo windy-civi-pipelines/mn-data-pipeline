@@ -1,0 +1,2672 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HF 3022",
+  "title": "Miscellaneous technical corrections made to laws and statutes; erroneous, obsolete, and omitted text and references corrected; redundant, conflicting, and superseded provisions removed; and style and form changes made.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Governmental Operations-State",
+    "Legislature"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Friday, April 25, 2025",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Third reading",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Bill was passed",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Returned from Senate",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Presented to Governor 05/13/2025",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Governor approval 05/15/2025",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Secretary of State, Filed 05/15/2025",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Laid on table",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Taken from table",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Referred to Rules and Administration for comparison with SF3289, now on General Orders",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Comm report: Subst. for SF on General Orders SF3289",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Special Order",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Third reading Passed",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Presentment date 05/13/25",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Governor's action Approval 05/15/25",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Secretary of State Chapter 20 05/15/25",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    },
+    {
+      "description": "Effective date 05/16/2025",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T00:41:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liebling",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liebling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Limmer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Limmer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SF 3289",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Minnesota Session Laws - 2025, Regular Session",
+      "citation": "Chapter 20",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 1.135 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 11A.04",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 12B.50",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 16C.16 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 17.354",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 18F.02 subdivision 2a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 27.01 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 27.069",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 27.10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 27.13",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 27.19 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 45.0135 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.027 subdivision 16",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.027 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.033 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.0835 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.0855 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.66 subdivision 12",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.788 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.791 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.793 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.925 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84A.02",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84A.33 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84B.03 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84B.03 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84D.02 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.055 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.22 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.41 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 86A.05 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 88.79 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.018 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.19 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.21",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.22 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.53 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 89.551",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 90.02",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 90.041 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 90.195",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 93.47 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.075 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.075 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.101 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.101 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.133 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.445 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.451 subdivision 3b",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.465 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97B.015 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97B.015 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97B.715 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97B.801",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.005 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.081 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.205",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.342 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.815 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97C.855",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103A.341",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103B.101 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103B.215 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103B.311 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103B.314 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103C.201 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103C.211",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103C.601 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103C.611 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103D.271 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103D.335 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103D.335 subdivision 21",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103D.405 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103D.905 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103E.215 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103E.291",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103E.325 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103G.287 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103G.412",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 103H.105",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 115.03 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 115A.03 subdivision 37",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 115A.64 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 115A.64 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 117.025 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 120B.024 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 120B.23 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 121A.15 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 122A.18 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 122A.26 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 122A.76 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 123A.26 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 123B.09 subdivision 5b",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 124D.09 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 124D.42 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 124D.475",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 124E.16 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 125A.63 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 126C.13 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 127A.20 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 127A.21 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 127A.41 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 127A.41 subdivision 9",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 127A.85",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142A.03 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142A.609 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.05 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.06 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.11 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.11 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.11 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.12 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142D.25 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142E.01 subdivision 26",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142G.01 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142G.01 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 142G.38",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144.291 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144.966 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144A.43 subdivision 28",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144E.101 subdivision 14",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144E.28 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144E.50 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 144G.08 subdivision 64",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147.02 subdivision 6a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147.09",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147.091 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147.091 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147.111 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.01 subdivision 20",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.09 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.13 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.13 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.13 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.14 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147A.17 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147B.02 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147B.02 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147B.02 subdivision 9",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147B.06 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147E.10 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147E.15 subdivision 11",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147E.40 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 147F.05 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 148E.285 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 150A.055 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 150A.06 subdivision 12",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 154.19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 161.125 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 161.45 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 161.46 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 162.09 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 163.161",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.012 subdivision 13",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.10 subdivision 1c",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.1291 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.187 subdivision 17",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.27 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.327 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168.345 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168A.01 subdivision 18",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168A.01 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168A.01 subdivision 20",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 168A.14 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 169.345 subdivision 3c",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 169.345 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 169.58 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 169.781 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 169.81 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 171.017 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 171.06 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 171.0605 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 171.12 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 171.301 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.02 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.22 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.24 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.29 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.30 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 174.30 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 181.953 subdivision 5a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216B.023 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216B.1691 subdivision 2h",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216B.241 subdivision 5a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216C.377 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216C.379",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216I.07 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216I.19 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 216I.19 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 218.011 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 219.015 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 219.055 subdivision 2a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 221.031 subdivision 3b",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 221.031 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 221.0314 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 221.81 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245.4905 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245.495",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245.735 subdivision 4d",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245A.07 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245C.02 subdivision 6a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245D.091 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 245I.23 subdivision 15",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256.01 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256.0451 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256.0451 subdivision 11",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256.0451 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256B.0625 subdivision 5m",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256L.02 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256P.001",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256P.04 subdivision 9",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256P.06 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256P.10 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 256R.02 subdivision 19",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 257.0769 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260.762 subdivision 2a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260C.151 subdivision 2a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260C.178 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260C.71 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260E.03 subdivision 23",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260E.14 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260E.30 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 260E.36 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 270.075 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 270C.63 subdivision 13",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 272.02 subdivision 104",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 273.42 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 282.38 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 282.38 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 290.0132 subdivision 26",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 290.06 subdivision 2c",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 290.06 subdivision 23a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 297A.75 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 299F.051 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 299J.05",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 299K.08 subdivision 3a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.301 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.301 subdivision 9",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.301 subdivision 13",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.411 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.425 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.545 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.571 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.721 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 308C.801 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 319B.40",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 325D.44 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 336.3-206",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 336.9-301",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 336.12-107",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 352.91 subdivision 3c",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 353D.07 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 353G.01 subdivision 7b",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 353G.01 subdivision 8b",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 353G.01 subdivision 10a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 353G.09 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 354B.31 subdivision 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.013 subdivision 36",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.031",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.032 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.62",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.654",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 360.915 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 393.07 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 403.36 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 446A.073 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 446A.073 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 462A.051 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 462A.2096",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 469.002 subdivision 25",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 469.53",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 469.54 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 473.4465 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 473J.23",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 477A.0126 subdivision 3a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 477A.013 subdivision 14",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 477A.0175 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 477A.24 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.60",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.81 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.82 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.82 subdivision 1a",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.82 subdivision 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518A.82 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 518B.01 subdivision 4",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 576.22",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 582.17",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 582.18",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Laws 2023",
+      "citation": "chapter 57 article 2 section 66 the effective date",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Laws 2024",
+      "citation": "chapter 115 article 4 section 3",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Laws 2024",
+      "citation": "chapter 115 article 11 section 6",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    },
+    {
+      "publication": "Laws 2024",
+      "citation": "chapter 120 article 1 section 15",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/20/"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3022?body=House",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mn/government",
+    "name": "Minnesota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mn"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T00:41:59Z"
+  }
+}

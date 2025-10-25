@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees Koznick, Olson, Koegel, Tabke",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2438"
+}

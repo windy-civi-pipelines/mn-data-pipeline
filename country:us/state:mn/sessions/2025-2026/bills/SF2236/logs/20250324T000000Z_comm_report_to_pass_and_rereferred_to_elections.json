@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Comm report: To pass and re-referred to Elections",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 2236"
+}

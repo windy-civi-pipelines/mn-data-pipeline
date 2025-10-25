@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion to recall",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 823"
+}

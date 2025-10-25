@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Workforce, Labor, and Economic Development Finance and Policy",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1484"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate file first reading, referred to State Government Finance and Policy",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 856"
+}

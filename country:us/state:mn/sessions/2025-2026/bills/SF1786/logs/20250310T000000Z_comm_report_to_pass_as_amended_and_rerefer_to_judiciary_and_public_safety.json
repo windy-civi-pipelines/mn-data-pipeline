@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Comm report: To pass as amended and re-refer to Judiciary and Public Safety",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 1786"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report, to adopt as amended",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2438"
+}

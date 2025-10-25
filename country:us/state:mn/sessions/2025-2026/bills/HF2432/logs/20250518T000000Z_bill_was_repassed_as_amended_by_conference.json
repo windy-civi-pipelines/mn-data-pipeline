@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill was repassed as amended by Conference",
+    "date": "2025-05-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2432"
+}

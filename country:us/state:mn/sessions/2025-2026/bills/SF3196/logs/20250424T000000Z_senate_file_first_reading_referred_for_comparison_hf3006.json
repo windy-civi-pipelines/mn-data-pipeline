@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate file first reading, referred for comparison HF3006",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 3196"
+}

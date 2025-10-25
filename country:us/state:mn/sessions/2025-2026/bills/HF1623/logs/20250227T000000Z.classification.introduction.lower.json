@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Legacy Finance",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1623"
+}

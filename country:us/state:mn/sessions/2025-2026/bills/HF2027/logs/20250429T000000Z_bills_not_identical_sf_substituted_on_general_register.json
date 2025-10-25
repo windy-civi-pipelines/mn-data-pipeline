@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bills not identical, SF substituted on General Register",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2027"
+}

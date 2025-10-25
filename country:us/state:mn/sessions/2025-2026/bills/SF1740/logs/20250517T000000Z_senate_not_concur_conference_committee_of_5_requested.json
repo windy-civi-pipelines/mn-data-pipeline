@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate not concur, conference committee of 5 requested",
+    "date": "2025-05-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 1740"
+}

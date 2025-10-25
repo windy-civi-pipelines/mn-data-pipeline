@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House accedes, conference committee of 4 to be appointed",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 2370"
+}

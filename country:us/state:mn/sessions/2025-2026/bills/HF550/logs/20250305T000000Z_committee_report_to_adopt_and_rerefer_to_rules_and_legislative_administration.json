@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report, to adopt and re-refer to Rules and Legislative Administration",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 550"
+}

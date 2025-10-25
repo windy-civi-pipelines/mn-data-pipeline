@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor approval 05/01/2025",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1355"
+}

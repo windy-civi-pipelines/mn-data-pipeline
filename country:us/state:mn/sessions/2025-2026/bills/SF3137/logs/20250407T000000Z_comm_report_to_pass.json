@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Comm report: To pass",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 3137"
+}

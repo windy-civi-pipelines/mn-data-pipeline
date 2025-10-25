@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Comm report: No recommendation, re-referred to Health and Human Services",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 2413"
+}

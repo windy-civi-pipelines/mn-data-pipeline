@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion did not prevail to withdraw and be placed on General Orders",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 916"
+}

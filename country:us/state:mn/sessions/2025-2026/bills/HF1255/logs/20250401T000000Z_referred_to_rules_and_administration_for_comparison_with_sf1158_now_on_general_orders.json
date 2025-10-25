@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Rules and Administration for comparison with SF1158, now on General Orders",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1255"
+}

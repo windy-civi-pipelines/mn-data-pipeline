@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduction and first reading, referred to Agriculture Finance and Policy",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1497"
+}

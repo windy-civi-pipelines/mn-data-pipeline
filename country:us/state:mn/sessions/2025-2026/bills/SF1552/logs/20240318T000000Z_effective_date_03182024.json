@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Effective date 03/18/2024",
+    "date": "2024-03-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 1552"
+}

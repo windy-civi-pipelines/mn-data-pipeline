@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion did not prevail 2/3 vote required to suspend rules",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 856"
+}

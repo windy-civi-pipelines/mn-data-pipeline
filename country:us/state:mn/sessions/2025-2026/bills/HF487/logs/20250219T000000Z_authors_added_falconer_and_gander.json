@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Authors added Falconer and Gander",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 487"
+}

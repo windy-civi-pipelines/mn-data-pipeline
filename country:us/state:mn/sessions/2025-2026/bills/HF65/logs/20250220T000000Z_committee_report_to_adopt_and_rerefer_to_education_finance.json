@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report, to adopt and re-refer to Education Finance",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 65"
+}

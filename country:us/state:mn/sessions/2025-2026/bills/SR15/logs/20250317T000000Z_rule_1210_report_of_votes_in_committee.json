@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rule 12.10: report of votes in committee",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SR 15"
+}

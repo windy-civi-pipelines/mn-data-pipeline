@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House rule 1.21, placed on Calendar for the Day",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 1075"
+}
